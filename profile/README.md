@@ -10,6 +10,32 @@
 - 즐거운 식물 관리 경험 제공을 위한 직관적인 UI
 
 ## 팀원 구성
+<table>
+  <tr align = "center">
+    <td><a href="https://github.com/judysook"><img src="https://avatars.githubusercontent.com/u/78345761?v=4" width=200></a></td>
+    <td><a href="https://github.com/seoyeonsw"><img src="https://avatars.githubusercontent.com/u/166610834?v=4" width=200></a></td>
+    <td><a href="https://github.com/trieeun"><img src="https://avatars.githubusercontent.com/u/124482354?v=4" width=200></a></td>
+    <td><a href="https://github.com/stophyunn"><img src="https://avatars.githubusercontent.com/u/166075024?v=4" width=200></a></td>
+  </tr>
+  <tr align = "center">
+    <td><a href = "https://github.com/judysook">한예주</a></td>
+    <td><a href = "https://github.com/seoyeonsw">백서연</a></td>
+    <td><a href = "https://github.com/trieeun">양세윤</a></td>
+    <td><a href = "https://github.com/stophyunn">정지현</a></td>
+  </tr>
+  <tr align = "center">
+    <td><a href="https://github.com/Chaejy"><img src="https://avatars.githubusercontent.com/u/144954836?v=4" width=200></a></td>
+    <td><a href="https://github.com/jiwonniddaaa"><img src="https://avatars.githubusercontent.com/u/120795436?v=4" width=200></a></td>
+    <td><a href="https://github.com/osjkate"><img src="https://avatars.githubusercontent.com/u/98140863?v=4" width=200></a></td>
+    <td><a href="https://github.com/qlcskcode"><img src="https://avatars.githubusercontent.com/u/102455499?v=4" width=200></a></td>
+  </tr>
+  <tr align = "center">
+    <td><a href = "https://github.com/Chaejy">채지연</a></td>
+    <td><a href = "https://github.com/jiwonniddaaa">김지원</a></td>
+    <td><a href = "https://github.com/osjkate">오수진</a></td>
+    <td><a href = "https://github.com/trieeun">윤선희</a></td>
+  </tr>
+</table>
 
 ## 개발 환경
 - Front-end
