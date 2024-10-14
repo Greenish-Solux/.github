@@ -1,13 +1,15 @@
 # 🌱Greenish🌱
 초보 식집사들을 위한 반려식물 물주기 관리 어플리케이션
 
-<img width="734" alt="그리니시" src="https://github.com/user-attachments/assets/724b0c35-517f-448d-9ffb-84edf365fa03">
+<img width="800" alt="그리니시" src="https://github.com/user-attachments/assets/724b0c35-517f-448d-9ffb-84edf365fa03">
 
 ## 프로젝트 소개
 - 초보식집사를 위한 사용자 맞춤형 식물 관리 어플리케이션으로 간편하고 즐거운 식물 키우기 경험을 제공</b>
 - 식물 키우는 재미를 느끼고 싶어하는 초보 식집사들의 니즈를 충족
 - 사용자별 맞춤 정보 제공으로 식물 스케줄 관리의 어려움 해소
 - 즐거운 식물 관리 경험 제공을 위한 직관적인 UI
+
+<br>
 
 ## 팀원 구성
 <table>
